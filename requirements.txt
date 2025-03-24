@@ -1,0 +1,6 @@
+numpy
+scipy
+openai-whisper
+soundfile
+librosa
+ffmpeg-python
